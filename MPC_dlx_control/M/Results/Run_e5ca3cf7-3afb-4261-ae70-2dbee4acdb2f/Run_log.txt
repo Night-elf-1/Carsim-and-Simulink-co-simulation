@@ -1,0 +1,8 @@
+Run made by CarSim 2019.1 at 13:07 on February 22, 2024.
+Vehicle Configuration: I_I
+Started with simfile: simfile.sim
+
+
+The run stopped at T = 0 because there was a problem opening PARSFILE "Results\Run_e5ca3cf7-3afb-4261-ae70-2dbee4acdb2f\Run_all.par".
+No such file or directory.
+
